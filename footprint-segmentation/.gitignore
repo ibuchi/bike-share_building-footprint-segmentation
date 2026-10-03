@@ -1,0 +1,18 @@
+# Local env / caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large Inria assets
+data/
+data/raw/
+data/processed/
+
+# Trained weights
+*.pth
+checkpoints/

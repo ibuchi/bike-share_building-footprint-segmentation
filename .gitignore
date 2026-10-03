@@ -1,0 +1,10 @@
+# Workspace-level ignores
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.report/
